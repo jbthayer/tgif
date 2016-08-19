@@ -7,6 +7,5 @@ List for the weekend
 * Go swimming 
 * Go to farmer's market
 * Go for a run at Stulsaft Park
-* And another thing...let's go to the libarary
-* Edit file in GitHub repository using web interface
-* Added something here
+* Go grocery shopping
+* Add a bullet in my local repository
