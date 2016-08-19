@@ -10,3 +10,5 @@ List for the weekend
 * And another thing...let's go to the libarary
 * Edit file in GitHub repository using web interface
 * Added something here
+* Add bullet from GitHub web interface
+* 
