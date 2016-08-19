@@ -7,3 +7,4 @@ List for the weekend
 * Go swimming 
 * Go to farmer's market
 * Go for a run at Stulsaft Park
+* And another thing...let's go to the libarary
